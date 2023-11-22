@@ -26,7 +26,7 @@ This project is a simple Python application that uses a custom Tkinter interface
 1. Clone the repository:
 
    ```bash
-   git clone https://github.comLugzh/Python_SQLite_Registration_App.git
+   git clone https://github.com/Lugzh/Python_SQLite_Registration_App.git
    cd Python_SQLite_Registration_App
    
 2. Run the application:
